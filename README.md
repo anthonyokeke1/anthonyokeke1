@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Implementing a SOC and Honeynet in Azure </b>
+  - [Implementing a SOC and Honeynet in Azure](https://github.com/anthonyokeke1/SOC_Honeynet_Azure)
 
 <h2>👨‍💻 Education </h2> 
 
