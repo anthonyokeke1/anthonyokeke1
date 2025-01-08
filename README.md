@@ -4,8 +4,9 @@
 
 - <b>Implementing a SOC and Honeynet in Azure </b>
   - [Implementing a SOC and Honeynet in Azure](https://github.com/anthonyokeke1/SOC_Honeynet_Azure)
- 
-  - [Vulnerability Management Project with Azure & OpenVAS](https://github.com/anthonyokeke1/Vulnerability_Management_Azure_-_OpenVAS)
+
+- <b>Vulnerability Management Project with Azure & OpenVAS </b> 
+  - [Vulnerability Management with Azure & OpenVAS](https://github.com/anthonyokeke1/Vulnerability_Management_Azure_-_OpenVAS)
 
 <h2>👨‍💻 Education </h2> 
 
